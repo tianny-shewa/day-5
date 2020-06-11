@@ -1,0 +1,26 @@
+body {
+    background-color:rgba(255,255,255,0.3);
+}
+img{
+    float:left ;
+}
+header{
+font-family:arial;
+font-size:40px;
+text-align:center ;
+color:#ff0000;
+font-size:30px;
+padding-left:4px;
+}
+p{
+    color:black;
+}
+h2{
+    font-size:25px;
+    margin-top:10px;
+   text-align:right ;
+}
+h3{
+   margin-top:10px;
+    text-align:right ;
+}
